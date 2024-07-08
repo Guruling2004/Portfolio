@@ -16,7 +16,7 @@
 1. [Introduction](#introduction)
 2. [Why Portfolio](#why-portfolio)
 3. [Objectives](#objectives)
-4. [Design](#design)
+4. [Business Use Cases](#business-use-cases)
 5. [To-do](#to-do)
 6. [References](#references)
 
